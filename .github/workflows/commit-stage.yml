@@ -1,2 +1,2 @@
-12name: Commit Stage
+name: Commit Stage
 on: push
